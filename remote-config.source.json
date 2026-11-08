@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "issuedAt": "2026-10-14T14:30:49.144Z",
+  "issuedAt": "2026-11-08T09:18:43.999Z",
   "killSwitch": {
     "all": false,
-    "flowApi": false,
+    "flowApi": true,
     "flowUi": false,
     "upload": false,
     "gemini": false
